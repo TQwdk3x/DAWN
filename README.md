@@ -33,6 +33,7 @@ Dear reviewer, this folder contains our demo videos:
    This video contains the qualitative results on the CelebV-HQ dataset. Additionally, we display our original results at a resolution of 256 × 256, along with 512 × 512 videos processed using the super-resolution algorithm "CodeFormer."
 
 9. **Chinese.mp4, Korean.mp4, Japanese.mp4, German.mp4, French.mp4**
-    These video contain the generalization experiment of different portrait style and different language.
+
+    These videos present the generalization experiments involving various portrait styles and languages.
 
 Thank you for watching. We plan to release our code in the future.
